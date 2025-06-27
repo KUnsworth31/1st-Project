@@ -1,0 +1,2 @@
+Recipes Project
+this project is demonstrating the skills I have learned in the html section of foundations on the odin project. I have been learning and woprking through working with git and github and working with HTML
